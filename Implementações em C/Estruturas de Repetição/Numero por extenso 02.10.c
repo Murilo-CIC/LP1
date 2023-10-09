@@ -6,7 +6,7 @@ int main()
 
     int num, mil, centena, dezena, zero;
 
-    printf("Informe um numero inteiro (de \n");
+    printf("Informe um numero inteiro (de 0 a 9999)\n");
     scanf("%d", &num);
     zero = num;
 
