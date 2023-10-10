@@ -6,7 +6,6 @@ int main()
     int opSexo;
     float peso, altura, imc, pesoIdeal, alturaC;
 
-    system("cls");
     printf("Informe seu sexo: \n1 - Feminino \n2 - Masculino \n\n");
     scanf("%d", &opSexo);
     printf("\nInforme seu peso: ");
